@@ -10,7 +10,9 @@ public class TestPsaApplication {
 	public static void main(String[] args) {
 
         int x = 100;
-		SpringApplication.run(TestPsaApplication.class, args);
+        int y = 200;
+
+        SpringApplication.run(TestPsaApplication.class, args);
 	}
 
 }
