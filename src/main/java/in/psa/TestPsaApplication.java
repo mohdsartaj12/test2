@@ -12,6 +12,14 @@ public class TestPsaApplication {
         int x = 100;
         int y = 200;
 
+// BUG - 123
+
+Public void test (){
+
+// in progress
+
+}
+
         SpringApplication.run(TestPsaApplication.class, args);
 	}
 
